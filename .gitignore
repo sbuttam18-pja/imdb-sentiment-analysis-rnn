@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Model checkpoints
+*.pth
+*.pt
+*.pkl
+*.joblib
+
+# Dataset
+IMDB Dataset.csv
+
+# Environment variables
+.env
